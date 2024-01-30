@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Peter Barilo 👋
+🔭 I’m currently working on Machine Learning integrations for my applications
+👀 I’m interested in working as a Software of Machine Learning Engineer
+💬 Reach me at peterbarilo@gmail.com 
 
 <!--
 **PeterBarilo/PeterBarilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
