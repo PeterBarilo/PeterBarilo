@@ -1,5 +1,5 @@
 ### Hi, I'm Peter Barilo 👋
-🔭 I’m currently working on Machine Learning integrations for my applications
+🔭 I’m currently working on Machine Learning integrations for my applications \n
 👀 I’m interested in working as a Software of Machine Learning Engineer
 💬 Reach me at peterbarilo@gmail.com 
 
