@@ -1,7 +1,8 @@
 ### Hi, I'm Peter Barilo 👋 <br> 
 🔭 I’m currently working on Machine Learning integrations for my applications <br> 
 👀 I’m interested in working as a Software of Machine Learning Engineer <br> 
-💬 Reach me at peterbarilo@gmail.com  <br> 
+📫 Reach me at peterbarilo@gmail.com  <br> 
+⚡ Personal Website: peterbarilo.com
 
 <!--
 **PeterBarilo/PeterBarilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
