@@ -1,6 +1,6 @@
 ### Hi, I'm Peter Barilo 👋 <br> 
 🔭 I’m currently working on Machine Learning integrations for my applications <br> 
-👀 I’m interested in working as a Software or Machine Learning Engineer. I am also looking for oppurtunities in the CyberSecurity Field <br> 
+👀 I’m interested in working as a Software Engineer and Cloud Architect. I am also looking for oppurtunities in the Cybersecurity Field <br> 
 📫 Reach me at peterbarilo@gmail.com  <br> 
 ⚡ Personal Website: peterbarilo.com
 
